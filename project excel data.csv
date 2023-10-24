@@ -1,0 +1,13 @@
+BusinessTravel,Travel_Frequently,,,,
+,,,,,
+Row Labels,Sum of Age,Sum of DailyRate,Sum of DistanceFromHome,Sum of Education,Sum of JobLevel
+Human Resources,144,3308,54,13,11
+Female,60,1414,40,7,4
+Male,84,1894,14,6,7
+Research & Development,4968,106605,1303,386,269
+Female,2232,44913,685,173,125
+Male,2736,61692,618,213,144
+Sales,2419,52320,615,187,141
+Female,1277,28414,343,98,72
+Male,1142,23906,272,89,69
+Grand Total,7531,162233,1972,586,421
